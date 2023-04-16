@@ -1,3 +1,0 @@
-C:/Users/dcast/OneDrive/Escritorio/Space Invaders/cmake-build-debug/CMakeFiles/Space_Invaders.dir
-C:/Users/dcast/OneDrive/Escritorio/Space Invaders/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dcast/OneDrive/Escritorio/Space Invaders/cmake-build-debug/CMakeFiles/rebuild_cache.dir
